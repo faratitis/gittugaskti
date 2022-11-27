@@ -1,2 +1,1 @@
-Menambah file3.txt
-Menambah baris di file3.txt
+Ini file3.txt
