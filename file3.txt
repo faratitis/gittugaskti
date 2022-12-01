@@ -1,1 +1,2 @@
 Ini file3.txt
+Seharusnya masih ada baris kedua
