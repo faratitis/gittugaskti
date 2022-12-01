@@ -1,0 +1,2 @@
+# gittugaskti
+Tugas KTI
